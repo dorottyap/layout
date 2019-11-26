@@ -1,0 +1,19 @@
+body, h1, header {
+    margin: 0;
+    padding 0;
+    }
+
+header {
+    background-color: gold;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.hamburger {
+    position: absolute;
+    right: 5px;
+    top: 4px;
+
+}
